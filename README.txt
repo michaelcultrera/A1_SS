@@ -2,6 +2,10 @@ Submitted by:
 Michael Cultrera (100699912) 
 Ryan Gharzeddine (100625820)
 
+QUESTION 1 & 2:
+
+I used IntelliJ, so all I needed to do was create the project and then click run when complete.
+
 QUESTIONS 3 & 4:
 To compile and run the code using the COMMAND LINE:
 
